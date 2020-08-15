@@ -41,4 +41,4 @@ The Multple_Year_Stock_Data_Sheet20XX_XX.png files are screenshots from the exce
 
 StockChange.bas and StockChange.vbs are the script files.  These two files are the same.  Import either of them into Visual Basic for Applications. They should provide the same results.
 
-In addition to the github link, there is a also a google drive link.  The google drive link includes the completed Multiple_year_stock_data_KCY.xlsm workbook. 
+In addition to the github link, there is a also a google drive link.  
